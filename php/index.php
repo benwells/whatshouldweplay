@@ -8,10 +8,10 @@
   <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap-responsive.css">
   <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Lato:400,700,700italic'>
   <link rel="stylesheet" type="text/css" href="css/app.css">
-  <script type="text/javascript" src="js/jquery.min.1.10.2.js"></script>
+  <script type="text/javascript" src="./js/jquery.min.1.10.2.js"></script>
   <script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
   <script type="text/javascript" src="js/app.js" defer='defer'></script>
-  <script type="text/javascript" src="js/jquerymobile.js"></script>
+  <script type="text/javascript" src="./js/jquerymobile.js"></script>
   <script type="text/javascript" src="js/jquery.shake.js"></script>
 </head>
 
